@@ -34,10 +34,28 @@
 Ссылка на код: https://colab.research.google.com/drive/1Nta6IlcoOhrqg5D1J3rMTW3G-ux_fXDW#scrollTo=HMaxmJVPYMxo&line=1&uniqifier=1
 
 ### Для Unity
+![image](https://user-images.githubusercontent.com/114513570/192858339-24dc1276-b922-4ff5-9a13-2ae42f34bcde.png)
+#### Вот скрипт, но ничего в консоль не выводится.![image](https://user-images.githubusercontent.com/114513570/192858441-f2370a5d-3fa1-4888-94a2-28d41463575a.png)
 
 
+```py
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
 
+public class TestPrint : MonoBehaviour {
 
+	
+	void Start () {
+
+        print("Hello World");
+        Debug.Log("Hello World");
+      
+        
+	}
+}
+
+```
 
 ## Выводы
 Ознакомился с основными операторами зыка Python на примере реализации линейной регрессии.
