@@ -1,5 +1,5 @@
 # Analiz-iskustvenii-intelekt
-Отчет по лабораторной работе #1 выполнил(а):
+Отчет по лабораторной работе #2 выполнил(а):
 - Щукин Владимир Александрович
 - РИ-211121
 Отметка о выполнении заданий (заполняется студентом):
@@ -24,40 +24,26 @@
 
 ## Задание 1
 
-### Задание: Написать программы Hello World на Python и Unity.
-#### Для Python в отчете привести скриншоты с демонстрацией сохранения документа google.colab на свой диск с запуском программы, выводящей сообщение Hello World.
-#### Для Unity в отчете привести скришноты вывода сообщения Hello World в консоль.
-### Для Python
-![image](https://user-images.githubusercontent.com/114513570/192842256-3366fbd3-c43f-4711-affb-03d51709fa9b.png)
-![image](https://user-images.githubusercontent.com/114513570/192842297-73757df7-6be9-470a-af2d-b857cdcca47d.png)
-#### Код: print('Hello World') 
-Ссылка на код: https://colab.research.google.com/drive/1Nta6IlcoOhrqg5D1J3rMTW3G-ux_fXDW#scrollTo=HMaxmJVPYMxo&line=1&uniqifier=1
+### Задание: Реализовать совместную работу и передачу данных в связке Python
+#### - Google-Sheets – Unity. При выполнении задания используйте видео-материалы и исходные данные, предоставленные преподавателя курса.
+#### - В облачном сервисе google console подключить API для работы с google sheets и google drive.
+#### - Реализовать запись данных из скрипта на python в google-таблицу. Данные описывают изменение темпа инфляции на протяжении 11 отсчётных периодов, с учётом стоимости игрового объекта в каждый период.
+#### - Создать новый проект на Unity, который будет получать данные из google- таблицы, в которую были записаны данные в предыдущем пункте.
+#### - Написать функционал на Unity, в котором будет воспризводиться аудио- файл в зависимости от значения данных из таблицы.
 
-### Для Unity
-![image](https://user-images.githubusercontent.com/114513570/192858339-24dc1276-b922-4ff5-9a13-2ae42f34bcde.png)
-#### Вот скрипт, но ничего в консоль не выводится.![image](https://user-images.githubusercontent.com/114513570/192858441-f2370a5d-3fa1-4888-94a2-28d41463575a.png)
+### Решение:
+##### Google Drive APi и Google Sheets API подключил. 
 
+![image](https://user-images.githubusercontent.com/114513570/195173701-411dab6b-c4b2-4d80-aa48-dff11f130cd4.png)
 
-```py
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+![image](https://user-images.githubusercontent.com/114513570/195173746-aab15280-c927-4c8e-88f8-38c0f349672c.png)
 
-public class TestPrint : MonoBehaviour {
+##### Но застрял здесь. 
 
-	
-	void Start () {
+![image](https://user-images.githubusercontent.com/114513570/195174445-327deb4a-102e-4dcb-9ac7-45e5b979957a.png)
 
-        print("Hello World");
-        Debug.Log("Hello World");
-      
-        
-	}
-}
-
-```
 
 ## Выводы
-Ознакомился с основными операторами зыка Python на примере реализации линейной регрессии.
+Познакомился с программными средствами для организции передачи данных между инструментами google, Python и Unity.
 
 
