@@ -40,7 +40,7 @@
 
 ##### Но застрял здесь. 
 
-![image](https://user-images.githubusercontent.com/114513570/195174445-327deb4a-102e-4dcb-9ac7-45e5b979957a.png)
+![image](https://user-images.githubusercontent.com/114513570/195176010-6d07c5e0-7ede-4a2a-8086-ad1995ce41e9.png)
 
 
 ## Выводы
