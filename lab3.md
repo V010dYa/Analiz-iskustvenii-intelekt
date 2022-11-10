@@ -24,8 +24,9 @@
 ### Реализовать систему машинного обучения в связке Python - Google-Sheets – Unity. При выполнении задания можно использовать видео-материалы и исходные данные, предоставленные преподавателями курса.
 
 ### Решение:
-
-
+#### Скачал библиотеки: mlagents 0.28.0, torch 1.7.1
+![image](https://user-images.githubusercontent.com/114513570/201151493-0e83a80c-4c30-462c-8d34-f59d1f0c3d24.png)
+![image](https://user-images.githubusercontent.com/114513570/201151588-f34d9003-8df3-4a0e-b4e0-949d5b62fc3f.png)
 
 
 
