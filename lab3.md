@@ -1,5 +1,5 @@
 # Analiz-iskustvenii-intelekt
-Отчет по лабораторной работе #2 выполнил(а):
+Отчет по лабораторной работе #3 выполнил(а):
 - Щукин Владимир Александрович
 - РИ-211121
 Отметка о выполнении заданий (заполняется студентом):
@@ -28,6 +28,16 @@
 ![image](https://user-images.githubusercontent.com/114513570/201151493-0e83a80c-4c30-462c-8d34-f59d1f0c3d24.png)
 ![image](https://user-images.githubusercontent.com/114513570/201151588-f34d9003-8df3-4a0e-b4e0-949d5b62fc3f.png)
 
+#### Добавил ML Agent в проект.
+![image](https://user-images.githubusercontent.com/114513570/201154828-cbbbb275-8475-4b7b-afcf-119623487db6.png)
+
+#### Залистил все в проект, но ничего не работает, ничего не двигается.
+![image](https://user-images.githubusercontent.com/114513570/201172091-88bed71e-df71-44ff-8b5f-a85244e21467.png)
+![image](https://user-images.githubusercontent.com/114513570/201172157-2feb68f7-b11e-4070-a00e-e01439a44d70.png)
+![image](https://user-images.githubusercontent.com/114513570/201172185-5ac46b4c-2f60-4c8d-921b-5361b0888b15.png)
+![image](https://user-images.githubusercontent.com/114513570/201172354-5bfbf7b6-f546-42dd-9f31-6968933e1553.png)
+![image](https://user-images.githubusercontent.com/114513570/201172400-1e1db21e-904a-4344-8457-c743b7072182.png)
+![image](https://user-images.githubusercontent.com/114513570/201172434-a230ec64-2000-4f61-96b7-a84fa2bdfea1.png)
 
 
 
