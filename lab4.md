@@ -22,29 +22,42 @@
 
 
 
-## Задание 1
+## Задание 
+![thumbnail](https://user-images.githubusercontent.com/114513570/205103985-d0814473-378a-417e-ac23-d6fa68e63b76.png)
+ 
 
-### Задание: Реализовать совместную работу и передачу данных в связке Python
-#### - Google-Sheets – Unity. При выполнении задания используйте видео-материалы и исходные данные, предоставленные преподавателя курса.
-#### - В облачном сервисе google console подключить API для работы с google sheets и google drive.
-#### - Реализовать запись данных из скрипта на python в google-таблицу. Данные описывают изменение темпа инфляции на протяжении 11 отсчётных периодов, с учётом стоимости игрового объекта в каждый период.
-#### - Создать новый проект на Unity, который будет получать данные из google- таблицы, в которую были записаны данные в предыдущем пункте.
-#### - Написать функционал на Unity, в котором будет воспризводиться аудио- файл в зависимости от значения данных из таблицы.
+## Решение: 
+### Прикрепил скрипт к GameObjekt
+![image](https://user-images.githubusercontent.com/114513570/205106675-2e842c60-ca5d-4098-85f6-e64add8b0322.png)
+![image](https://user-images.githubusercontent.com/114513570/205106729-edffb4e8-7481-4a49-ace8-d88f27d7a77c.png)
 
-### Решение:
-##### Google Drive APi и Google Sheets API подключил. 
+## OR
+![image](https://user-images.githubusercontent.com/114513570/205121952-8cbda424-7b04-4e85-86fd-c53146b1faa4.png)
+![image](https://user-images.githubusercontent.com/114513570/205121990-6eb5d770-607a-486f-8a8a-fd8ff232e434.png)
 
-![image](https://user-images.githubusercontent.com/114513570/195173701-411dab6b-c4b2-4d80-aa48-dff11f130cd4.png)
+### Вывод по OR: перцептрон обучился производить вычисление OR с третьего раза.
 
-![image](https://user-images.githubusercontent.com/114513570/195173746-aab15280-c927-4c8e-88f8-38c0f349672c.png)
+## AND
+![image](https://user-images.githubusercontent.com/114513570/205122179-9c3de401-549e-43e0-b075-b2a2d21c32ce.png)
+![image](https://user-images.githubusercontent.com/114513570/205122200-846acb90-be22-497a-b0ea-ba9026e61753.png)
 
-##### Но застрял здесь. 
+### Вывод по AND: перцептрон обучился производить вычисление AND с третьего раза.
 
-![image](https://user-images.githubusercontent.com/114513570/195176010-6d07c5e0-7ede-4a2a-8086-ad1995ce41e9.png)
+## NAND
+![image](https://user-images.githubusercontent.com/114513570/205122464-6c5ebe01-7197-4325-94c1-80bf10635b64.png)
+![image](https://user-images.githubusercontent.com/114513570/205122517-040a353c-7371-43da-9302-7471c2826a65.png)
 
+### Вывод по NAND: перцептрон обучился производить вычисление NAND с седьмого раза.
 
-## Выводы
-Познакомился с программными средствами для организции передачи данных между инструментами google, Python и Unity.
+## XOR
+![image](https://user-images.githubusercontent.com/114513570/205124155-926cac4e-bfd1-4b93-a454-6339d982e9c9.png)
+![image](https://user-images.githubusercontent.com/114513570/205124329-8c97d681-d2a3-454b-89a9-142dbf8dae95.png)
+![image](https://user-images.githubusercontent.com/114513570/205124409-22c48175-6a2d-4fb9-9122-2522529340b1.png)
+![image](https://user-images.githubusercontent.com/114513570/205124597-b6275309-9583-458a-856a-5a2ad985450d.png)
+
+### Вывод по XOR: перцептрон необучаем производить вычисление XOR.
+
+## Вывод: познакомился с перцептроном.
 
 
 
